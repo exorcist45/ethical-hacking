@@ -1,4 +1,4 @@
-# ethical-hacking
+# Ethical-Hacking
 
 I worked on two projects for understading and implementing Ethical Hacking
 
